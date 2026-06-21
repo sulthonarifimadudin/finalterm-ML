@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+tensorflow
+optuna
+mlflow
+lime
+jupyter
+notebook
